@@ -1,0 +1,41 @@
+{
+    "Personal formation": {
+      "firstName": "Siyamthanda",
+      "lastName": "Mazokwana",
+      "label": "Aspiring Front End Developer",
+      "picture": "https://i.postimg.cc/ncV37PFG/C12-Siyamthanda-Mazokwana-2.jpg",
+      "email": "siyamthandamazokwana@gmail.com",
+      "phone": "(060) 504-7299",
+      "location": {
+        "address": "10721 Dubu Crescent",
+        "postalCode": "7750",
+        "city": "Cape Town",
+        "province": "Western Cape",
+        "countryCode": "RSA"
+      }
+    },
+    "work": [{
+      "company": "Adcorp BLU",
+      "position": "General Warehouse Assistant",
+      "website": "https://www.adcorpblu.com/",
+      "startDate": "2022-10-01",
+      "endDate": "2014-01-01",
+      "summary": "Description...",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "education": [{
+      "institution": "Phakama Secondary School",
+      "studyType": "Matric",
+      "completedDate": "2018-11-26",
+      "subjects": [
+        "Mathematical Literacy, Accounting, Business Studies, Econimics"
+      ]
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": ["HTML","CSS","Javascript"]
+    }]
+  }
