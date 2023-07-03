@@ -1,19 +1,4 @@
 {
-    "Personal formation": {
-      "firstName": "Siyamthanda",
-      "lastName": "Mazokwana",
-      "label": "Aspiring Front End Developer",
-      "picture": "https://i.postimg.cc/ncV37PFG/C12-Siyamthanda-Mazokwana-2.jpg",
-      "email": "siyamthandamazokwana@gmail.com",
-      "phone": "(060) 504-7299",
-      "location": {
-        "address": "10721 Dubu Crescent",
-        "postalCode": "7750",
-        "city": "Cape Town",
-        "province": "Western Cape",
-        "countryCode": "RSA"
-      }
-    },
     "work": [{
       "company": "Adcorp BLU",
       "position": "General Warehouse Assistant",
@@ -25,14 +10,61 @@
         "Started the company"
       ]
     }],
-    "education": [{
+    "education": [
+      {
+        "institution":"Life Choices Academy",
+        "studyType": "Training Programme",
+        "startDate": "2023-04-1",
+        "completedDate":"$now()",
+        "subjects": "Web Development"
+      },
+      {
       "institution": "Phakama Secondary School",
       "studyType": "Matric",
-      "completedDate": "2018-11-26",
+      "highlights": "2018-11-26",
       "subjects": [
         "Mathematical Literacy, Accounting, Business Studies, Econimics"
       ]
     }],
+    "testimonials":[
+      {
+        "image": "https://i.postimg.cc/VNWYHB9k/C12-Ayabulela-Sityata-2.jpg",
+        "name": "Ayabule Sityata",
+        "message": "Siya is such a focused individual, very helpful and mindful. Has a great personality, he is very bubbly",
+        "occupation": "LC Student"
+      },
+      {
+        "image": "https://i.postimg.cc/VNWYHB9k/C12-Ayabulela-Sityata-2.jpg",
+        "name": "Him Say",
+        "message": "It's always a pleasure to work with Siyamthanda. He has an infectious personality and he always brings out the best in others. He motivates everyone around him and he's always ready to offer a helping hand to anybody when needed. He has a go getter mindset that he applies himself to and does his best to achieve what he wants. I would definitely recommend him.",
+        "occupation": "LC Student"
+      },
+      {
+        "image": "https://i.postimg.cc/VNWYHB9k/C12-Ayabulela-Sityata-2.jpg",
+        "name": "What say",
+        "message": "Siyamthanda is always pantcual and is respectful. When it comes to the work he always makes sure that everything is done and goes the extra mile.",
+        "occupation": "LC Student"
+      },
+      {
+        "image": "https://i.postimg.cc/VNWYHB9k/C12-Ayabulela-Sityata-2.jpg",
+        "name": "For ntoni",
+        "message": "It's always a pleasure to work with Siyamthanda. He has an infectious personality and he always brings out the best in others. He motivates everyone around him and he's always ready to offer a helping hand to anybody when needed. He has a go getter mindset that he applies himself to and does his best to achieve what he wants. I would definitely recommend him.",
+        "occupation": "LC Student"
+      },
+      {
+        "image": "https://i.postimg.cc/VNWYHB9k/C12-Ayabulela-Sityata-2.jpg",
+        "name": "Hayisuka marn",
+        "message": "Siya is such a focused individual, very helpful and mindful. Has a great personality, he is very bubbly",
+        "occupation": "LC Student"
+      },
+      {
+        "image": "https://i.postimg.cc/VNWYHB9k/C12-Ayabulela-Sityata-2.jpg",
+        "name": "lomlilo uyashisa weTailer banyise",
+        "message": "Siya is such a focused individual, very helpful and mindful. Has a great personality, he is very bubbly",
+        "occupation": "LC Student"
+      }
+    ],
+    
     "skills": [{
       "name": "Web Development",
       "level": "Intermediate",
