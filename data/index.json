@@ -71,12 +71,6 @@
       }
     ],
     
-    "skills": [{
-      "id":"1",
-      "name": "Web Development",
-      "level": "Intermediate",
-      "keywords": ["HTML","CSS","Javascript"]
-    }],
     "projects": [{
       "id": "1",
       "image" : "https://i.postimg.cc/g0TNPG3M/218e6b77faa4a1a247e4248219b1ef72.jpg",
