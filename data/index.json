@@ -6,10 +6,7 @@
       "website": "https://www.adcorpblu.com/",
       "startDate": "2022-10-01",
       "endDate": "2014-01-01",
-      "summary": "Description...",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Helping with packing of products, unloading trucks and housekeeping duties",
     }],
     "education": [
       {
@@ -17,11 +14,12 @@
         "institution":"Life Choices Academy",
         "studyType": "Training Programme",
         "startDate": "2023-04-1",
-        "completedDate":"$now()",
+        "completedDate":"currently",
         "subjects": "Web Development"
-      },
+    }],
+    "highschool":[
       {
-        "id": "2",
+      "id": "2",
       "institution": "Phakama Secondary School",
       "studyType": "Matric",
       "completedDate": "2018-11-26",
