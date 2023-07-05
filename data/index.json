@@ -1,5 +1,6 @@
 {
     "work": [{
+      "id": "1",
       "company": "Adcorp BLU",
       "position": "General Warehouse Assistant",
       "website": "https://www.adcorpblu.com/",
@@ -12,6 +13,7 @@
     }],
     "education": [
       {
+        "id": "1",
         "institution":"Life Choices Academy",
         "studyType": "Training Programme",
         "startDate": "2023-04-1",
@@ -19,6 +21,7 @@
         "subjects": "Web Development"
       },
       {
+        "id": "2",
       "institution": "Phakama Secondary School",
       "studyType": "Matric",
       "highlights": "2018-11-26",
@@ -28,36 +31,42 @@
     }],
     "testimonials":[
       {
+        "id":"1",
         "image": "https://i.postimg.cc/VNWYHB9k/C12-Ayabulela-Sityata-2.jpg",
         "name": "Ayabule Sityata",
         "message": "Siya is such a focused individual, very helpful and mindful. Has a great personality, he is very bubbly",
         "occupation": "LC Student"
       },
       {
+        "id": "2",
         "image": "https://i.postimg.cc/VNWYHB9k/C12-Ayabulela-Sityata-2.jpg",
         "name": "Him Say",
         "message": "It's always a pleasure to work with Siyamthanda. He has an infectious personality and he always brings out the best in others. He motivates everyone around him and he's always ready to offer a helping hand to anybody when needed. He has a go getter mindset that he applies himself to and does his best to achieve what he wants. I would definitely recommend him.",
         "occupation": "LC Student"
       },
       {
+        "id":"3",
         "image": "https://i.postimg.cc/VNWYHB9k/C12-Ayabulela-Sityata-2.jpg",
         "name": "What say",
         "message": "Siyamthanda is always pantcual and is respectful. When it comes to the work he always makes sure that everything is done and goes the extra mile.",
         "occupation": "LC Student"
       },
       {
+        "id": "4",
         "image": "https://i.postimg.cc/VNWYHB9k/C12-Ayabulela-Sityata-2.jpg",
         "name": "For ntoni",
         "message": "It's always a pleasure to work with Siyamthanda. He has an infectious personality and he always brings out the best in others. He motivates everyone around him and he's always ready to offer a helping hand to anybody when needed. He has a go getter mindset that he applies himself to and does his best to achieve what he wants. I would definitely recommend him.",
         "occupation": "LC Student"
       },
       {
+        "id": "5",
         "image": "https://i.postimg.cc/VNWYHB9k/C12-Ayabulela-Sityata-2.jpg",
         "name": "Hayisuka marn",
         "message": "Siya is such a focused individual, very helpful and mindful. Has a great personality, he is very bubbly",
         "occupation": "LC Student"
       },
       {
+        "id": "6",
         "image": "https://i.postimg.cc/VNWYHB9k/C12-Ayabulela-Sityata-2.jpg",
         "name": "lomlilo uyashisa weTailer banyise",
         "message": "Siya is such a focused individual, very helpful and mindful. Has a great personality, he is very bubbly",
@@ -66,8 +75,46 @@
     ],
     
     "skills": [{
+      "id":"1",
       "name": "Web Development",
       "level": "Intermediate",
       "keywords": ["HTML","CSS","Javascript"]
-    }]
+    }],
+    "projects": [{
+      "id": "1",
+      "image" : "https://i.postimg.cc/g0TNPG3M/218e6b77faa4a1a247e4248219b1ef72.jpg",
+      "title": "To do list App",
+      "description" : "I used HTML, CSS and Javascript to create this app."
+    },
+    {
+      "id": "2",
+      "image" : "https://i.postimg.cc/903br18Z/f802649c5e2615b7e030c0d2eed777bf.jpg",
+      "title": "Bootstrap Calender",
+      "description" : "I used HTML, and Bootstrap to create this calender."
+    },
+    {
+      "id": "3",
+      "image" : "https://i.postimg.cc/bJSLy4Tq/6a13880b1d7bdbc22c7f7f0b777284f6.jpg",
+      "title": "Temperature converter",
+      "description" : "I used HTML, CSS and Javascript to create this project."
+    },
+    {
+      "id": "4",
+      "image" : "https://i.postimg.cc/SQ8VwFRr/88bdd397c22462aaad21b754acd45266.jpg",
+      "title": "Ecommerce Site",
+      "description" : "I used HTML, CSS, Bootstrap and Javascript  to create this project."
+    },
+    {
+      "id": "5",
+      "image" : "https://i.postimg.cc/zvnjWW6M/69932d75139a2e79f686843452d727dd.jpg",
+      "title": "First Portfolio",
+      "description" : "I used HTML, CSS and Bootstrap to create this project."
+    },
+    {
+      "id": "6",
+      "image" : "https://i.postimg.cc/tJt37bVG/7028e2235b0e791973ee9a596a6e5272.jpg",
+      "title": "BMI Calculator",
+      "description" : "I used HTML, CSS and Javascript to create this project."
+    }
+  ]
   }
