@@ -75,37 +75,50 @@
       "id": "1",
       "image" : "https://i.postimg.cc/g0TNPG3M/218e6b77faa4a1a247e4248219b1ef72.jpg",
       "title": "To do list App",
-      "description" : "I used HTML, CSS and Javascript to create this app."
+      "description" : "I used HTML, CSS and Javascript to create this app.",
+      "netlifyURL": "https://sage-griffin-d77f82.netlify.app",
+      "githubURL": "https://github.com/Siya021/todoAppChallenge.git"
     },
     {
       "id": "2",
       "image" : "https://i.postimg.cc/903br18Z/f802649c5e2615b7e030c0d2eed777bf.jpg",
       "title": "Bootstrap Calender",
-      "description" : "I used HTML, and Bootstrap to create this calender."
+      "description" : "I used HTML, and Bootstrap to create this calender.",
+      "netlifyURL": "https://silver-raindrop-5c2a9d.netlify.app",
+      "githubURL": "https://github.com/Siya021/BootstrapCalender.git"
     },
     {
       "id": "3",
       "image" : "https://i.postimg.cc/bJSLy4Tq/6a13880b1d7bdbc22c7f7f0b777284f6.jpg",
       "title": "Temperature converter",
-      "description" : "I used HTML, CSS and Javascript to create this project."
+      "description" : "I used HTML, CSS and Javascript to create this project.",
+      "netlifyURL": "https://stellar-gelato-f7b808.netlify.app",
+      "githubURL": "https://github.com/Siya021/jsCalculator.git"
     },
     {
       "id": "4",
       "image" : "https://i.postimg.cc/SQ8VwFRr/88bdd397c22462aaad21b754acd45266.jpg",
       "title": "Ecommerce Site",
-      "description" : "I used HTML, CSS, Bootstrap and Javascript  to create this project."
+      "description" : "I used HTML, CSS, Bootstrap and Javascript  to create this project.",
+      "netlifyURL": "https://meek-kangaroo-a114e1.netlify.app",
+      "githubURL": "https://github.com/Siya021/SNEAKERdistro.git"
     },
     {
       "id": "5",
       "image" : "https://i.postimg.cc/zvnjWW6M/69932d75139a2e79f686843452d727dd.jpg",
       "title": "First Portfolio",
-      "description" : "I used HTML, CSS and Bootstrap to create this project."
+      "description" : "I used HTML, CSS and Bootstrap to create this project.",
+      "netlifyURL": "https://tourmaline-blancmange-a8c66e.netlify.app",
+      "githubURL": "https://github.com/Siya021/ProjectPortfolio.git"
+      
     },
     {
       "id": "6",
       "image" : "https://i.postimg.cc/tJt37bVG/7028e2235b0e791973ee9a596a6e5272.jpg",
       "title": "BMI Calculator",
-      "description" : "I used HTML, CSS and Javascript to create this project."
+      "description" : "I used HTML, CSS and Javascript to create this project.",
+      "netlifyURL": "https://joyful-peony-b1e793.netlify.app",
+      "githubURL": "https://github.com/Siya021/jsBMI.git"
     }
   ]
   }
