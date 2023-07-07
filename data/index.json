@@ -15,7 +15,7 @@
         "studyType": "Training Programme",
         "startDate": "2023-04-1",
         "completedDate":"currently",
-        "subjects": "Web Development"
+        "subjects": ["Web Development"]
         },
       {
         "id": "2",
@@ -37,7 +37,7 @@
       {
         "id": "2",
         "image": "https://i.postimg.cc/VNWYHB9k/C12-Ayabulela-Sityata-2.jpg",
-        "name": "Him Say",
+        "name": "Uthmaan Samsodien",
         "message": "It's always a pleasure to work with Siyamthanda. He has an infectious personality and he always brings out the best in others. He motivates everyone around him and he's always ready to offer a helping hand to anybody when needed. He has a go getter mindset that he applies himself to and does his best to achieve what he wants. I would definitely recommend him.",
         "occupation": "LC Student"
       },
