@@ -15,16 +15,16 @@
         "studyType": "Training Programme",
         "startDate": "2023-04-1",
         "completedDate":"currently",
-        "subjects": ["Web Development"]
+        "subjects": "Web Development(Programming languages)"
         },
       {
         "id": "2",
       "institution": "Phakama Secondary School",
       "studyType": "Matric",
       "completedDate": "2018-11-26",
-      "subjects": [
-        "Mathematical Literacy, Accounting, Business Studies, Econimics"
-      ]
+      "subjects": 
+        "Commmerce (Mathematical Literacy, Accounting, Business Studies, Econimics)"
+      
     }],
     "testimonials":[
       {
